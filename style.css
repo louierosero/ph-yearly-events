@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Droid Sans, Apple SD Gothic Neo, Segoe UI, DejaVu Sans,
+    Trebuchet MS, sans‑serif;
+}
+
+body {
+  text-align: center;
+  background-color: #edf2f4;
+  color: #edf2f4;
+  text-transform: uppercase;
+}
+
+#events-container {
+  width: 90%;
+  max-width: 1600px;
+  margin: 50px auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 30px;
+}
+
+span.actual-date {
+  display: block;
+  padding: 8px;
+  font-weight: bold;
+  background-color: #8d99ae;
+  color: #2b2d42;
+}
+
+h1 {
+  background-color: #2b2d42;
+  padding: 25px 20px;
+  font-size: 36px;
+  letter-spacing: 2px;
+}
+
+h2 {
+  background-color: #2b2d42;
+  padding: 20px 10px 25px;
+  font-size: 72px;
+}
+
+p {
+  background-color: #d90429;
+  padding: 10px;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+h3 {
+  background-color: #ef233c;
+  padding: 15px;
+}
