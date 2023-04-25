@@ -4,4 +4,12 @@ This website provides a countdown for various yearly events celebrated in the Ph
 
 ## Getting Started
 
-To get started with this project, you can simply clone this repository to your local machine and open the index.html file in your web browser. Alternatively, you can also visit the [live demo](https://ph-yearly-events.netlify.app/) of this app hosted on Netlify Pages.
+To get started with this project, you can simply clone this repository to your local machine and open the index.html file in your web browser. Alternatively, you can also visit the [live demo](https://ph-yearly-events.netlify.app/) of this app hosted on Netlify.
+
+## Contributing
+
+If you would like to contribute to this project, feel free to submit a pull request or raise an issue in the Github repository.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/louierosero/ph-yearly-events/blob/main/LICENSE) file for details.
